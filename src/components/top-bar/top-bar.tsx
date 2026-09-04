@@ -16,9 +16,19 @@ export default function Topbar() {
         ]}
       />
       <div className="flex flex-row gap-2">
-        <p>SM</p>
-        <p>SM</p>
-        <p>SM</p>
+        <a href="https://twitter.com" target="_blank" rel="noopener noreferrer">
+          SM
+        </a>
+        <a
+          href="https://linkedin.com"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          SM
+        </a>
+        <a href="https://github.com" target="_blank" rel="noopener noreferrer">
+          SM
+        </a>
       </div>
     </div>
   );
