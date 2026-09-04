@@ -1,4 +1,4 @@
-import Navbar from "../nav-bar/nav-bar";
+import Navbar from "../../shared/components/nav-bar/nav-bar";
 
 export default function Topbar() {
   return (

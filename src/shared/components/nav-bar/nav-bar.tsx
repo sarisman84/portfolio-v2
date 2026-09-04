@@ -1,3 +1,4 @@
+"use client"
 import { NavbarProps } from "./nav-bar.props";
 
 export default function Navbar({
